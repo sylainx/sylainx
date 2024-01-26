@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, React Native, Laravel, PhP**
 
-- 📫 How to reach me **saintilmondcorneille99@gmail.com**
+- 📫 How to reach me **sylainx.dev@gmail.com**
 
 - ⚡ Fun fact **I am very funny**
 
